@@ -1,0 +1,12 @@
+[
+  {
+    "key": "c_user",
+    "value": "PUT_YOUR_COOKIE_HERE",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "httpOnly": false,
+    "secure": true,
+    "session": true
+  }
+]

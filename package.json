@@ -1,0 +1,14 @@
+{
+  "name": "arabic-messenger-bot",
+  "version": "1.0.0",
+  "description": "Messenger bot (Arabic) using facebook-chat-api + appstate.json + config.json",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "facebook-chat-api": "^1.6.0"
+  }
+}
